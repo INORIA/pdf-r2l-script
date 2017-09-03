@@ -1,2 +1,6 @@
-PDFを右綴じに設定する小さなスクリプトです。
-pythonのPDF操作ライブラリ"pdfrw"を使用しています。
+Make pdf right-to-left (R2L)
+and two column right
+
+Forked from https://bitbucket.org/hanepjiv/pdfr2l
+For reference, https://hanepjiv.blogspot.jp/2014/11/pdfpython.html
+
